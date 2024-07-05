@@ -5,7 +5,7 @@ This repository contains assignments from the Machine Learning Course for the ma
 | ------------- |  ------------- |
 | 01. Introduction  | [lab1](lab01/) | 
 | 02. Classification  |  [lab2](lab02/) |
-| 03. Regression  | [lecture3](Lectures/03-regresja.pdf)  | [lab3](lab03/) |
+| 03. Regression  |  [lab3](lab03/) |
 | 04. SVM (Support vector machine)  | [lab4](lab04/) |
 | 05. Trees   | [lab5](lab05/) |
 | 06. Ensemble   | [lab6](lab06/) |
