@@ -11,7 +11,7 @@ This repository contains assignments from the Machine Learning Course for the ma
 | 06. Ensemble   | [lab6](lab06/) |
 | 07. Clustering  |  [lab7](lab07/) |
 | 08. Dimensionality reduction  | [lab8](lab08/) |
-| 09. Neural Networks Keras   | [lab9](lab9/) |
-| 11. Hyperparameters |  [lab10](lab10/) | 
-| 12. Convolutional Neural Networks  |  [lab11](lab11/) | 
-| 13. Recurrent Neural Network  |  [lab12](lab12/) | 
+| 09. Classification and regression in Keras   | [lab9](lab9/) |
+| 10. Hyperparameters |  [lab10](lab10/) | 
+| 11. Convolutional Neural Networks  |  [lab11](lab11/) | 
+| 12. Recurrent Neural Network  |  [lab12](lab12/) | 
